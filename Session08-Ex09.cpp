@@ -8,7 +8,7 @@ int main() {
     	printf("So phan tu phai la so nguyen duong\n");
 	}
 	else{
-		int arr[n];
+        int arr[n];
         printf("Hay nhap cac phan tu cua mang:\n");
         for (int i = 0; i < n; i++) {
             printf("Phan tu %d: ", i + 1);
